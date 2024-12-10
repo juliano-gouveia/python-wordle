@@ -25,7 +25,7 @@ A simple terminal-based implementation of the popular game **Wordle** using Pyth
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd wordle-terminal
+   cd python-wordle
    ```
 3. Run the game:
    ```bash
