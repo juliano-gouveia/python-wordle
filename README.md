@@ -19,7 +19,7 @@ A simple terminal-based implementation of the popular game **Wordle** using Pyth
 
 ## How to Play
 
-1. Clone this repository to your local machine:
+1. Download the latest version of Python Worldle:
    ```bash
    git clone https://github.com/juliano-gouveia/python-wordle.git
    ```
