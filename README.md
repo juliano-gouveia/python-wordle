@@ -31,3 +31,11 @@ A simple terminal-based implementation of the popular game **Wordle** using Pyth
    ```bash
    python3 wordle.py
    ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or issues, please open an issue on this repository or contact me on [discord](https://discord.com/users/714098639919775805).
+
